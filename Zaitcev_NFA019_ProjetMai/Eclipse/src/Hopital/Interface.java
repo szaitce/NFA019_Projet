@@ -247,8 +247,8 @@ public class Interface {
 		btnLogInOut.setBounds(199, 33, 89, 23);
 		frame.getContentPane().add(btnLogInOut);
 	}
-
-
+//khlbgliuhn
+// ,gkjglhgjkjlk
 	private ImageIcon createImageIcon(String path) throws IOException {
 		java.net.URL img = getClass().getResource(path);
 		if (img != null) {
