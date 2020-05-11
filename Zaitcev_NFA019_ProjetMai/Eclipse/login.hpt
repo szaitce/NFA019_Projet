@@ -1,0 +1,25 @@
+4
+login
+password
+status (0=superAdmin, 1=agent admin, 2=medecin, 3=technicien, 4=patient)
+id
+admin
+admin
+0
+0
+toto
+123
+1
+1
+bacha
+123
+2
+2
+titi
+123
+3
+3
+anti
+123
+4
+4
